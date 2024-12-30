@@ -40,7 +40,7 @@ Policy Defination:
       {
           "Effect": "Allow",
           "Action": [
-           "s3:GetObject",
+              "s3:GetObject",
               "s3:PutObject"
           ],
           "Resource": [
@@ -57,6 +57,9 @@ Policy Defination:
       }
   ]
 }
+
+
+   
 Step 4: Create an IAM Role (IAM Role Name: amc-polly-lambda-role-12) and attach amc-polly-lambda-policy and AWSLambdaBasicExecutionRole Policies
 
 Step 5: Create and Configure the Lambda Function (Lambda Function Name: TextToSpeechFunction)
