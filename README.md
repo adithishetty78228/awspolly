@@ -13,7 +13,7 @@ Convenience: Allows users to listen to articles or books while multitasking, suc
 Project Architecture:
 
 
-
+<img width="1104" alt="340108899-5c799fd1-d4d7-4eae-923a-2b8320678463" src="https://github.com/user-attachments/assets/bf676b3b-234c-412b-ab5f-9518322b293b" />
 
 
 
@@ -70,4 +70,4 @@ Set up an event notification in the source S3 bucket to trigger the Lambda funct
 Step 7: Write Lambda Function Code
 
 Step 8: Test the System
-<img width="1104" alt="340108899-5c799fd1-d4d7-4eae-923a-2b8320678463" src="https://github.com/user-attachments/assets/bf676b3b-234c-412b-ab5f-9518322b293b" />
+
