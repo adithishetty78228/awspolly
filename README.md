@@ -75,3 +75,9 @@ Step 7: Write Lambda Function Code
 
 Step 8: Test the System
 
+output:
+![BUCKETS AWS](https://github.com/user-attachments/assets/6e4ccbad-8f84-4b85-addc-fc491625e601)
+
+![Screenshot 2024-12-30 133216](https://github.com/user-attachments/assets/dfddbe0f-7065-4a5a-9375-531a9cd11ec4)
+
+
